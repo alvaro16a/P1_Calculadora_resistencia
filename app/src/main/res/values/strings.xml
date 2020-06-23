@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">P1_Calculadora_resistencia</string>
+    <string name="titulo">CALCULADORA DE RESISTENCIA</string>
+    <string name="banda_1">BANDA 1</string>
+    <string name="banda_2">BANDA 2</string>
+    <string name="banda_3">BANDA 3</string>
+    <string name="tolerancia">TOLERANCIA</string>
+    <string name="multiplicador">MULTIPLICADOR</string>
+    <string name="color_rb_negro">0</string>
+    <string name="color_rb_multiplicador_N">x 1 ohm</string>
+    <string name="todo">TODO</string>
+    <string name="color_rb_marron">1</string>
+    <string name="color_rb_rojo" >2</string>
+    <string name="color_rb_naranja">3</string>
+    <string name="color_rb_amarillo">4</string>
+    <string name="color_rb_verde">5</string>
+    <string name="color_rb_azul">6</string>
+    <string name="color_rb_violeta">7</string>
+    <string name="color_rb_gris">8</string>
+    <string name="color_rb_blanco">9</string>
+    <string name="color_multiplicador_maron">x 10ohm</string>
+    <string name="color_multiplicador_rojo">x 100ohm</string>
+    <string name="color_multiplicador_naranja">x 1000ohm</string>
+    <string name="color_multiplicador_amarillo">x 10000ohm</string>
+    <string name="color_multiplicador_verde">x 100000ohm</string>
+    <string name="color_multiplicador_azul">x 1x10^6ohm</string>
+    <string name="color_multiplicador_morado">x 1x10^7ohm</string>
+    <string name="color_multiplicador_gris">x 1x10^8ohm</string>
+    <string name="color_multiplicador_blanco">x 1x10^9ohm</string>
+    <string name="tolerancia_1">+/-   1%</string>
+    <string name="tolerancia_2">+/-   2%</string>
+    <string name="tolerancia_3">+/-   5%</string>
+    <string name="tolerancia_4">+/-   10%</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="calcular">CALCULAR</string>
+</resources>
